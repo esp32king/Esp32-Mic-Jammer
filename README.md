@@ -82,3 +82,7 @@ This project is provided for educational purposes only. The author is not respon
 # 👤 Creator info
 
   created by Krishna Rajput UP61
+
+# Increase Range 
+
+  increase range through add more Ultrasonic Transducer 
