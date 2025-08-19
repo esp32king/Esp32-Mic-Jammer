@@ -2,7 +2,7 @@
 
 📌 Overview
 
-The ESP32 Mic Jammer is a project that uses an ESP32 microcontroller to generate ultrasonic noise signals. These signals interfere with nearby microphones (mobile phones, laptops, smart devices), making it harder for them to record audio clearly.
+The ESP32 Mic Jammer is a project that uses an ESP32/ESP8266 microcontroller to generate ultrasonic noise signals. These signals interfere with nearby microphones (mobile phones, laptops, smart devices), making it harder for them to record audio clearly.
 
 ⚠️ This project is intended only for educational and research purposes. Do not use it for illegal activities.
 
