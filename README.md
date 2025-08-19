@@ -41,17 +41,7 @@ Power supply (USB or Li-ion battery)
 
 💻 Software Requirements
 
-Arduino IDE or PlatformIO
-
-ESP32 board support package
-
-Required libraries:
-
-WiFi.h
-
-WebServer.h (if using web interface control)
-
-
+Arduino IDE
 
 
 ---
@@ -59,19 +49,6 @@ WebServer.h (if using web interface control)
 🚀 Setup & Upload
 
 1. Install the ESP32 board package in Arduino IDE
-
-Go to File → Preferences → Additional Board Manager URLs 
-You can get the copy button on GitHub by putting the URL inside a fenced code block.
-Paste this Markdown into your README:
-
-### ESP32 Boards Manager URL
-
-`https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
-
-On GitHub, this will render as plain text with a **copy** icon on the right of the code block. 
-
-
-
 
 2. Connect your ESP32 board to the computer
 
@@ -84,11 +61,15 @@ On GitHub, this will render as plain text with a **copy** icon on the right of t
 
 5. Connect the piezo buzzer or ultrasonic transducer to the defined GPIO pin (can be configured in code)
 
+# ultronic Transducer →  Esp32
 
+   `pin 1`        →      pin 25
+   `pin 2`        →      pin VCC
+   
 6. Power on → The jammer will start generating ultrasonic noise
 
 
-
+<img src="https://raw.githubusercontent.com/esp32king/Esp32-Mic-Jammer/refs/heads/main/Files/17384736654022.jpg"></img>
 
 ---
 
