@@ -81,4 +81,4 @@ This project is provided for educational purposes only. The author is not respon
 
 # 👤 Creator info
 
-  created By Krishna Rajput UP61
+  created by Krishna Rajput UP61
