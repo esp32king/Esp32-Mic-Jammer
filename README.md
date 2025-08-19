@@ -63,10 +63,10 @@ Arduino IDE
 
 # ultronic Transducer →  Esp32
 
-   `pin 1`        →      pin 25
-   `pin 2`        →      pin VCC
+ <br>  `pin 1`        →      pin 25 </br>
+<br>   `pin 2`        →      pin VCC </br>
    
-6. Power on → The jammer will start generating ultrasonic noise
+# 6. Power on → The jammer will start generating ultrasonic noise
 
 
 <img src="https://raw.githubusercontent.com/esp32king/Esp32-Mic-Jammer/refs/heads/main/Files/17384736654022.jpg"></img>
