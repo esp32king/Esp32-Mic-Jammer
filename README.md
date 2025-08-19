@@ -60,7 +60,7 @@ WebServer.h (if using web interface control)
 
 1. Install the ESP32 board package in Arduino IDE
 
-Go to File → Preferences → Additional Board Manager URLs and add the ESP32 URL
+Go to File → Preferences → Additional Board Manager URLs and add the ESP32 URL.  https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
 
 
