@@ -9,7 +9,7 @@ The ESP32 Mic Jammer is a project that uses an ESP32/ESP8266 microcontroller to 
 
 ---
 
-✨ Features
+# ✨ Features
 
 Low-cost ESP32-based hardware
 
@@ -25,7 +25,7 @@ Can be controlled via a hardware switch or web interface
 
 ---
 
-🛠️ Hardware Requirements
+# 🛠️ Hardware Requirements
 
 ESP32 Development Board
 
@@ -39,14 +39,14 @@ Power supply (USB or Li-ion battery)
 
 ---
 
-💻 Software Requirements
+# 💻 Software Requirements
 
 Arduino IDE
 
 
 ---
 
-🚀 Setup & Upload
+# 🚀 Setup & Upload
 
 1. Install the ESP32 board package in Arduino IDE
 
@@ -74,7 +74,11 @@ Ultronic Transducer →  Esp32
 
 ---
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This project is provided for educational purposes only. The author is not responsible for any misuse, damages, or legal issues caused by using this project.
 
+
+# 👤 Creator info
+
+  created By Krishna Rajput UP61
