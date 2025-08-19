@@ -61,7 +61,8 @@ Arduino IDE
 
 5. Connect the piezo buzzer or ultrasonic transducer to the defined GPIO pin (can be configured in code)
 
-ultronic Transducer →  Esp32
+# Diagram
+Ultronic Transducer →  Esp32
 
  <br>  `pin 1`        →      pin 25 </br>
 <br>   `pin 2`        →      pin VCC </br>
