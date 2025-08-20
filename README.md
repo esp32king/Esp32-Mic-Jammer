@@ -78,6 +78,19 @@ Ultronic Transducer →  Esp32
 
 This project is provided for educational purposes only. The author is not responsible for any misuse, damages, or legal issues caused by using this project.
 
+# Icrease NOISE Using Amplifier Circuite
+<a2> Diagram</a2>
+<img src="https://raw.githubusercontent.com/esp32king/Esp32-Mic-Jammer/refs/heads/main/Files/Mic.jpg"></img>
+ 2nd Pic
+ <img src="https://raw.githubusercontent.com/esp32king/Esp32-Mic-Jammer/refs/heads/main/Files/Mic2.jpg"></img>
+
+# 🔋 POWER 
+Increase Power For Best Response
+
+ Give 5V + Add Connection
+    5V +  ➡  Esp32 PIN VCC/VIN/3V3
+    5v -  ➡  ESP32 PIN GND
+
 
 # 👤 Creator info
 
